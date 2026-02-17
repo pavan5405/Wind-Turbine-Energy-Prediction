@@ -12,11 +12,11 @@ https://github.com/user-attachments/assets/a85ccb75-32e1-4792-83a8-808c15431dbb
 
 |                 |                         |
 | --------------- | ----------------------- |
-| **Team ID**     | LTVIP2026TMIDS43058     |
-| **Team Leader** | Sujeeth Varma Chamarthi |
-| **Team Member** | Gutlapalli Premchand    |
-| **Team Member** | Charan Teja             |
-| **Team Member** | Divya Sree              |
+| **Team ID**     | LTVIP2026TMIDS24405|
+| **Team Leader** | Battula Pavan Kumar|
+| **Team Member** | Kuthani Gnana Deepika|
+| **Team Member** | Goriparti Gowthami|
+| **Team Member** | Pamu Sneha Jyothi|
 
 ---
 
