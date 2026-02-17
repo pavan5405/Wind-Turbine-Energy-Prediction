@@ -68,7 +68,7 @@ smartinternz/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sujeeth-Varma/Weather-Based-Prediction-of-Wind-Turbine-Energy-Output.git
+git clone https://github.com/pavan5405/Weather-Based-Prediction-of-Wind-Turbine-Energy-Output.git
 ```
 
 ### 2. Create & Activate Virtual Environment
